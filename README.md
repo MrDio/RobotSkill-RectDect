@@ -9,8 +9,8 @@ Robot skill to detect storage spaces and move the robot to them
 | **Service type**  | Control  | Web  |
 | **Programming language**  | Python  | Python  |
 | **External files,<br>external repositorys,<br>additional packages**  | - / - / requirements.txt  | - / - / -  |
-| **Published APIs**  | rectDectApi  | -  |
-| **Used APIs**  | cameraApi, robotApi  | rectDectApi  |
+| **Published APIs**  | rectDetectApi  | -  |
+| **Used APIs**  | cameraApi, robotApi  | rectDetectApi  |
 
 ## Directory and file structure
 
