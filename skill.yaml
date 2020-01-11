@@ -1,0 +1,38 @@
+skill:
+    configVersion:  1
+    name:     RectDetect
+    version:  1.0.0
+    information:
+      developer: [Festo Developer]
+      picture:
+        name: skillImage.jpg
+        path: .
+        type: jpg
+      description:
+        usage_file: usageDescription.md
+        license_file: licenseDescription.md
+    services:
+        - name:  service_control
+          path:  service_control
+          type:
+            name: control
+          need_base_services: True
+          need_service_infrastructure: True
+          entrypoint:
+                runtime-selection: manual
+                runtime:
+                      identifier: python
+                      version:    3.7
+                working_directory: .
+                path: .
+                filename:   main.py
+        - name:  service_web
+          path:  service_web
+          type:
+            name: web
+            rest_definition:
+              filename: rest_api.py
+              path: .
+              object: api
+          need_base_services: True
+          need_service_infrastructure: True
