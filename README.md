@@ -5,12 +5,12 @@ Robot skill to detect storage spaces and move the robot to them
 
 | Service  | Control  | Web  |
 |---|---|---|
-| Description  | - Take pictures<br>- Detect storage spaces in pictures<br>- Move robot to storage space | - Publish REST interface to use robot skill  |
-| Service type  | Control  | Web  |
-| Programming language  | Python  | Python  |
-| External files,<br>external repositorys,<br>additional packages  | - / - / requirements.txt  | - / - / -  |
-| Published APIs  | rectDectApi  | -  |
-| Used APIs  | cameraApi, robotApi  | rectDectApi  |
+| **Description**  | - Take pictures<br>- Detect storage spaces in pictures<br>- Move robot to storage space | - Publish REST interface to use robot skill  |
+| **Service type**  | Control  | Web  |
+| **Programming language**  | Python  | Python  |
+| **External files,<br>external repositorys,<br>additional packages**  | - / - / requirements.txt  | - / - / -  |
+| **Published APIs**  | rectDectApi  | -  |
+| **Used APIs**  | cameraApi, robotApi  | rectDectApi  |
 
 ## Directory and file structure
 
