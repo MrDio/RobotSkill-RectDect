@@ -1,7 +1,7 @@
 # RobotSkill-RectDetect
 Robot skill to detect storage spaces and move the robot to them
 
-**This is an example robot skill for RoboHub (address: http://rhub.cc)**
+**This is an example robot skill for RoboHub (address: http://www.rhub.cc)**
 
 ## Overview
 
