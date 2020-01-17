@@ -26,7 +26,7 @@ skill:
                 filename:   main.py
           requirements:
               services:
-                  - name:    camera-api
+                  - name:    service-camera
                     version: 0.1
         - name:  service_web
           path:  service_web
