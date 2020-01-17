@@ -24,5 +24,3 @@ Robot skill to detect storage spaces and move the robot to them
 | service_control/requirements.txt  | File with required Python packages  |
 | service_web  | Directory of web service  |
 | service_web/rest_api.py  | Definition of the REST interface  |
-
-**by Festo Developers**
