@@ -16,8 +16,6 @@ skill:
           path:  service_control
           type:
             name: control
-          need_base_services: True
-          need_service_infrastructure: True
           entrypoint:
                 runtime-selection: manual
                 runtime:
@@ -34,5 +32,3 @@ skill:
               filename: rest_api.py
               path: .
               object: api
-          need_base_services: True
-          need_service_infrastructure: True
