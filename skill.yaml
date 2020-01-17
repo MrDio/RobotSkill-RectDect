@@ -24,6 +24,10 @@ skill:
                 working_directory: .
                 path: .
                 filename:   main.py
+          requirements:
+              services:
+                  - name:    camera-api
+                    version: 0.1
         - name:  service_web
           path:  service_web
           type:
