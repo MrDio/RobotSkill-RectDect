@@ -29,5 +29,7 @@ Robot skill to detect storage spaces and move the robot to them
 
 ## Credits
 Janfabian Fabriczeck
+
 Firat Susan
-Parts of the Algorithm derived from [here](https://stackoverflow.com/questions/8667818/opencv-c-obj-c-detecting-a-sheet-of-paper-square-detection/8863060)
+
+Parts of the Algorithm and image derived from [here](https://stackoverflow.com/questions/8667818/opencv-c-obj-c-detecting-a-sheet-of-paper-square-detection/8863060)
