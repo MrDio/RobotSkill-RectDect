@@ -1,7 +1,7 @@
 # RobotSkill-RectDetect
 Robot skill to detect storage spaces and move the robot to them
 
-**This is an example robot skill for RoboHub (address: http://www.rhub.cc)**
+**This is an example robot skill for RoboHub **
 
 ![alt text](https://i.stack.imgur.com/5e2Mv.jpg)
 
@@ -26,3 +26,8 @@ Robot skill to detect storage spaces and move the robot to them
 | service_control/requirements.txt  | File with required Python packages  |
 | service_web  | Directory of web service  |
 | service_web/rest_api.py  | Definition of the REST interface  |
+
+## Credits
+Janfabian Fabriczeck
+Firat Susan
+Parts of the Algorithm derived from [here](https://stackoverflow.com/questions/8667818/opencv-c-obj-c-detecting-a-sheet-of-paper-square-detection/8863060)
