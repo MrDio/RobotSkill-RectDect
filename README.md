@@ -1,7 +1,10 @@
 # RobotSkill-RectDetect
 Robot skill algorithm to detect storage spaces and move the robot to them
 
-**This is an example robot skill for RoboHub **
+## Purpose
+
+This repository is not ready to use as open source repo. It requires a special Cloud and Edge infrastructure which is not open.
+for interest or any concerns feel free to contact me (MrDio).
 
 ![alt text](https://i.stack.imgur.com/5e2Mv.jpg)
 
